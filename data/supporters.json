@@ -2275,6 +2275,20 @@
           "email": "theresa@barcamphannover.de"
         }
       ]
+    },
+    {
+      "name": "iterate=>ruhr",
+      "city": "Dortmund",
+      "country": "Germany",
+      "link": "https://iterate.ruhr",
+      "twitter": "IterateRuhr",
+      "contacts": [
+        {
+          "name": "Özgür Ergel",
+          "twitter": "OezguerErgel",
+          "email": "oezguer.ergel@iterate.ruhr"
+        }
+      ]
     }
   ]
 }
